@@ -1,20 +1,56 @@
 ** Drc report for C:\Users\Bryan Orabutt\Documents\GitHub\Color Organ\color_organ.kicad_pcb **
 ** Created on  **
 
-** Found 0 DRC errors **
+** Found 24 DRC errors **
+ErrType(28): Too small via size
+    @ (5.2620 in,3.4149 in): Via 0.0236 in net [Net-(C1-Pad1)] (1) on layers F.Cu/B.Cu
+ErrType(28): Too small via size
+    @ (5.4320 in,3.1549 in): Via 0.0236 in net [Net-(C1-Pad1)] (1) on layers F.Cu/B.Cu
+ErrType(28): Too small via size
+    @ (6.0445 in,3.0149 in): Via 0.0236 in net [Net-(C1-Pad1)] (1) on layers F.Cu/B.Cu
+ErrType(28): Too small via size
+    @ (5.1220 in,3.7149 in): Via 0.0236 in net [Net-(C1-Pad1)] (1) on layers F.Cu/B.Cu
+ErrType(28): Too small via size
+    @ (4.8920 in,4.2549 in): Via 0.0236 in net [Net-(C1-Pad1)] (1) on layers F.Cu/B.Cu
+ErrType(28): Too small via size
+    @ (4.7020 in,4.4249 in): Via 0.0236 in net [Net-(C1-Pad1)] (1) on layers F.Cu/B.Cu
+ErrType(28): Too small via size
+    @ (4.7720 in,2.8349 in): Via 0.0236 in net [Net-(C2-Pad1)] (3) on layers F.Cu/B.Cu
+ErrType(28): Too small via size
+    @ (4.0620 in,2.8449 in): Via 0.0236 in net [Net-(C2-Pad1)] (3) on layers F.Cu/B.Cu
+ErrType(28): Too small via size
+    @ (4.8420 in,2.5249 in): Via 0.0236 in net [Net-(C3-Pad1)] (4) on layers F.Cu/B.Cu
+ErrType(28): Too small via size
+    @ (5.0320 in,2.8649 in): Via 0.0236 in net [Net-(C4-Pad1)] (6) on layers F.Cu/B.Cu
+ErrType(28): Too small via size
+    @ (4.9720 in,2.5349 in): Via 0.0236 in net [Net-(C5-Pad1)] (7) on layers F.Cu/B.Cu
+ErrType(28): Too small via size
+    @ (4.3670 in,4.6949 in): Via 0.0236 in net [Net-(C6-Pad1)] (9) on layers F.Cu/B.Cu
+ErrType(28): Too small via size
+    @ (4.4920 in,2.2699 in): Via 0.0236 in net [Net-(C12-Pad1)] (17) on layers F.Cu/B.Cu
+ErrType(28): Too small via size
+    @ (4.6320 in,3.9549 in): Via 0.0236 in net [Net-(C14-Pad1)] (19) on layers F.Cu/B.Cu
+ErrType(28): Too small via size
+    @ (6.8020 in,2.7149 in): Via 0.0236 in net [Net-(C21-Pad1)] (31) on layers F.Cu/B.Cu
+ErrType(28): Too small via size
+    @ (6.0020 in,4.1249 in): Via 0.0236 in net [Net-(C25-Pad1)] (35) on layers F.Cu/B.Cu
+ErrType(28): Too small via size
+    @ (5.9520 in,3.6149 in): Via 0.0236 in net [Net-(C25-Pad1)] (35) on layers F.Cu/B.Cu
+ErrType(28): Too small via size
+    @ (6.2670 in,3.0349 in): Via 0.0236 in net [AMPAUDIO-R] (36) on layers F.Cu/B.Cu
+ErrType(28): Too small via size
+    @ (6.3020 in,2.5049 in): Via 0.0236 in net [Net-(C28-Pad1)] (39) on layers F.Cu/B.Cu
+ErrType(28): Too small via size
+    @ (5.1820 in,3.5449 in): Via 0.0236 in net [Net-(C29-Pad1)] (40) on layers F.Cu/B.Cu
+ErrType(28): Too small via size
+    @ (5.0420 in,3.2749 in): Via 0.0236 in net [Net-(R13-Pad2)] (76) on layers F.Cu/B.Cu
+ErrType(28): Too small via size
+    @ (6.0420 in,4.1249 in): Via 0.0236 in net [Net-(R30-Pad2)] (80) on layers F.Cu/B.Cu
+ErrType(28): Too small via size
+    @ (6.0020 in,3.4849 in): Via 0.0236 in net [Net-(R30-Pad2)] (80) on layers F.Cu/B.Cu
+ErrType(28): Too small via size
+    @ (5.8920 in,3.6949 in): Via 0.0236 in net [GNDA] (81) on layers F.Cu/B.Cu
 
-** Found 4 unconnected pads **
-ErrType(2): Unconnected pads
-    @ (90.170 mm,124.460 mm): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of R39 net Net-(C27-Pad1)
-    @ (86.360 mm,124.460 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of C27
-ErrType(2): Unconnected pads
-    @ (86.360 mm,119.383 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of D17 net Net-(C27-Pad1)
-    @ (86.360 mm,124.460 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of C27
-ErrType(2): Unconnected pads
-    @ (48.260 mm,104.140 mm): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of R13 net Net-(R13-Pad2)
-    @ (51.435 mm,104.140 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of R17
-ErrType(2): Unconnected pads
-    @ (48.260 mm,129.540 mm): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of R30 net Net-(R30-Pad2)
-    @ (51.435 mm,129.540 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of R34
+** Found 0 unconnected pads **
 
 ** End of Report **
