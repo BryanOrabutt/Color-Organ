@@ -1,0 +1,20 @@
+** Drc report for C:\Users\Bryan Orabutt\Documents\GitHub\Color Organ\color_organ.kicad_pcb **
+** Created on  **
+
+** Found 0 DRC errors **
+
+** Found 4 unconnected pads **
+ErrType(2): Unconnected pads
+    @ (90.170 mm,124.460 mm): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of R39 net Net-(C27-Pad1)
+    @ (86.360 mm,124.460 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of C27
+ErrType(2): Unconnected pads
+    @ (86.360 mm,119.383 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of D17 net Net-(C27-Pad1)
+    @ (86.360 mm,124.460 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of C27
+ErrType(2): Unconnected pads
+    @ (48.260 mm,104.140 mm): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of R13 net Net-(R13-Pad2)
+    @ (51.435 mm,104.140 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of R17
+ErrType(2): Unconnected pads
+    @ (48.260 mm,129.540 mm): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of R30 net Net-(R30-Pad2)
+    @ (51.435 mm,129.540 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of R34
+
+** End of Report **
