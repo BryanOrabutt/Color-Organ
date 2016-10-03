@@ -1,4 +1,4 @@
-update=9/21/2016 5:19:34 PM
+update=10/1/2016 4:25:29 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -70,3 +68,5 @@ LibName28=contrib
 LibName29=valves
 LibName30=C:/Users/Bryan Orabutt/Documents/KiCad/Libraries/Connectors
 LibName31=C:/Users/Bryan Orabutt/Documents/KiCad/Libraries/opamps
+[general]
+version=1
